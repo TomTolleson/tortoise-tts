@@ -133,3 +133,7 @@ dmypy.json
 .custom/*
 results/*
 debug_states/*
+
+# All custom files from local application
+*.code-workspace
+/voices/*
